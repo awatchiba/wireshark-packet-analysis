@@ -5,7 +5,7 @@ The goal was just to get familiar with how packets look and how to filter differ
 
 ---
 
-## 📁 What’s in this project
+## What’s in this project
 
 ### **captures/**
 All the Wireshark files I saved:
@@ -20,7 +20,7 @@ Screenshots of what each filtered capture looked like in Wireshark.
 
 ---
 
-## 🔍 What I did
+## What I did
 
 - Opened Wireshark  
 - Captured a few seconds of traffic  
@@ -30,7 +30,7 @@ Screenshots of what each filtered capture looked like in Wireshark.
 
 ---
 
-## 🧠 What I learned
+## What I learned
 
 - DNS = finding website IPs  
 - ARP = devices finding each other  
@@ -40,6 +40,6 @@ Screenshots of what each filtered capture looked like in Wireshark.
 
 ---
 
-## 👩🏽‍💻 About
+## About
 
 This was a beginner networking/cybersecurity assignment to help me understand how Wireshark works and what common protocols look like.
